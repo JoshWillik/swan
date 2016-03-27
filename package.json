@@ -1,0 +1,8 @@
+{
+  "name": "swan",
+  "version": "0.0.1",
+  "main": "swan/swan.js",
+  "dependencies": {
+    "imap": "^0.8.16"
+  }
+}
